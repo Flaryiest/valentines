@@ -1,3 +1,6 @@
+# Made this for a friend.  
+
+
 # Will You Be My Valentine? 💝
 This project is a playful and interactive webpage designed to creatively ask someone to be your Valentine. With cute visuals and dynamic elements, it adds a fun and memorable touch to the experience!
 
